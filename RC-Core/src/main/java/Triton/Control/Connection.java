@@ -5,7 +5,7 @@ import java.net.DatagramPacket;
 import java.net.InetAddress;
 import java.net.MulticastSocket;
 import java.util.Arrays;
-import Triton.ExternProto.*;
+import Proto.*;
 
 public class Connection {
 
